@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         ediQuantidadeDolar.setText("");
         editCotacao.setText("");
         textResultado.setText("Resultado:");
+        //teste
     }
 
 }
